@@ -1,0 +1,51 @@
+
+nav {
+	background-color: #ffca30
+}
+
+.icon {
+	position: relative;
+	left: -40px;
+	border: 1px solid #ffca30;
+	background-color: #ffca30;
+
+}
+
+#insearch {
+	background-color: #ffca30;
+	border-radius: 30px;
+}
+#insearch::placeholder {
+	color: #000;
+}
+
+
+
+
+.login {
+	background-color: #fff;
+	border: 1px solid ;
+	padding: 5px 20px;
+	border-radius: 20px;
+}
+
+.login:hover {
+	background-color: #000
+}
+
+.login a {
+	color: #000; 
+}
+
+.login a:hover {
+	color: #fff;
+}
+
+li {
+	 margin-left: 20px;
+}
+
+.blackheader a:active
+{
+	background-color: #ffca30;
+}
